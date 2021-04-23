@@ -1,0 +1,7 @@
+mainFormImage = runtime/Images/fullscreenlogo.jpg
+imgLogo = runtime/Images/blank.gif
+BlankImage = runtime/Images/blank.gif
+Splash = runtime/Images/dbConnect.gif
+SImage = runtime/Images/splash.gif
+icon = runtime/Images/ai.gif
+OpenForms = 3

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-beanutils-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-logging-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/ftp4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/jasperreportsCUSTOM1_4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/jcalendar-1.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/l2fprod-common-directorychooser.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/liquidlnf.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/mysql-connector-java-3.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/poi-2.0-final-20040126.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ablingskieee/eclipse-workspace/PayrollSystem/library/swing-worker-1.1.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
